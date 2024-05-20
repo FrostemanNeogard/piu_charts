@@ -1,5 +1,11 @@
 *.old
 
-*
-!20.Garfield's Garbage
-!21. Mez Massacre Mania
+/*
+
+# Garfield's Garbage
+!/20.*/
+!/20.*/**
+
+# Mez Massacre Mania
+!/21.*/
+!/21./**
