@@ -24,12 +24,12 @@
 #COMBOS:0.000=1;
 #BGCHANGES:;
 #FGCHANGES:;
-//--------------- pump-single - Mez ----------------
+//--------------- pump-single - Mez [BU] ----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Mez [BU];
 #DIFFICULTY:Challenge;
-#METER:13;
+#METER:21;
 #RADARVALUES:0,0,0,0,0;
 #NOTES:
 00000
@@ -1980,7 +1980,7 @@
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Mez (24/1-24/1-33/32);
 #DIFFICULTY:Edit;
-#METER:22;
+#METER:31;
 #RADARVALUES:0,0,0,0,0;
 #NOTES:
 00000

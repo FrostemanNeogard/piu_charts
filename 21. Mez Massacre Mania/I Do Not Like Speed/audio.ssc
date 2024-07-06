@@ -31,7 +31,7 @@
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Mez;
 #DIFFICULTY:Challenge;
-#METER:18;
+#METER:26;
 #RADARVALUES:0,0,0,0,0;
 #NOTES:
 00000
@@ -3538,19 +3538,6 @@
 00000
 ,
 30003
-00000
-00000
-00000
-;
-//--------------- pump-single - Mez ----------------
-#NOTEDATA:;
-#STEPSTYPE:pump-single;
-#DESCRIPTION:Mez;
-#DIFFICULTY:Edit;
-#METER:18;
-#RADARVALUES:0,0,0,0,0;
-#NOTES:
-00000
 00000
 00000
 00000
