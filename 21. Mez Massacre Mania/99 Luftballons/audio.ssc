@@ -31,10 +31,10 @@
 #COMBOS:0.000=1;
 #BGCHANGES:;
 #FGCHANGES:;
-//--------------- pump-single - Mez ----------------
+//--------------- pump-single - Mez (6-6/12/12/5/4/4) ----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Mez;
+#DESCRIPTION:Mez (6-6/12/12/5/4/4);
 #DIFFICULTY:Challenge;
 #METER:22;
 #RADARVALUES:0,0,0,0,0;

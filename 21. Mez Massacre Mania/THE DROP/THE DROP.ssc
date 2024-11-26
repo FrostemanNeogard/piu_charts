@@ -39,10 +39,10 @@
 #DISCIMAGE:;
 #BGCHANGES:;
 #FGCHANGES:;
-//--------------- pump-single - Mez ----------------
+//--------------- pump-single - Mez (1/1/1/1/1/1/1/1/1) ----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Mez;
+#DESCRIPTION:Mez (1/1/1/1/1/1/1/1/1);
 #DIFFICULTY:Challenge;
 #METER:20;
 #RADARVALUES:0,0,0,0,0;

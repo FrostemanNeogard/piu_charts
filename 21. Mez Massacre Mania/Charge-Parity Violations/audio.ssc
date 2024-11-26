@@ -49,10 +49,10 @@
 #COMBOS:0.000=1;
 #BGCHANGES:;
 #FGCHANGES:;
-//--------------- pump-single - Mez FS++ ----------------
+//--------------- pump-single - Mez FS++ (1/1/4/1/1/1/3/1) ----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Mez FS++;
+#DESCRIPTION:Mez FS++ (1/1/4/1/1/1/3/1);
 #DIFFICULTY:Challenge;
 #METER:23;
 #RADARVALUES:0,0,0,0,0;

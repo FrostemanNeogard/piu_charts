@@ -2142,10 +2142,10 @@
 00000
 30003
 ;
-//--------------- pump-single - Mez ----------------
+//--------------- pump-single - Mez (6/6/1-1-1/7-1) ----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Mez;
+#DESCRIPTION:Mez (6/6/1-1-1/7-1);
 #DIFFICULTY:Edit;
 #METER:28;
 #RADARVALUES:0,0,0,0,0;

@@ -23,10 +23,10 @@
 #COMBOS:0.000=1;
 #BGCHANGES:;
 #FGCHANGES:;
-//--------------- pump-single - Mez ----------------
+//--------------- pump-single - Mez (3) ----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Mez;
+#DESCRIPTION:Mez (3);
 #DIFFICULTY:Challenge;
 #METER:17;
 #RADARVALUES:0,0,0,0,0;
