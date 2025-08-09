@@ -2622,10 +2622,10 @@
 00000
 00000
 ;
-//--------------- pump-single - Mez (1-47/1-32) ----------------
+//--------------- pump-single - Mez [FS] (1-47/1-32) ----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Mez (1-47/1-32);
+#DESCRIPTION:Mez [FS] (1-47/1-32);
 #DIFFICULTY:Challenge;
 #METER:15;
 #RADARVALUES:0,0,0,0,0;
